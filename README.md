@@ -11,11 +11,12 @@ Using this solution we can deploy a static website using the terraform code and 
 ### Steps for deploying the solution
 
 ```sh
-git clone
+git clone https://github.com/jithinscaria236/jithin-s3-static-website.git
 ```
 
 ```sh
-cd 
+cd jithin-s3-static-website
+cd static-website-module
 ```
 ```sh
 terraform init
